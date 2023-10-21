@@ -1,6 +1,5 @@
 # TechEdGuard - Empowering Youths, Preventing Illicit Acts
-
-![Project Logo/Ima![IMG_20231015_182741_640](https://github.com/Sheega-ameenah/TechEdGuard/assets/147080250/91f838fd-97e4-4d46-9222-6409e295731e)
+[IMG_20231015_182741_640](https://github.com/Sheega-ameenah/TechEdGuard/assets/147080250/91f838fd-97e4-4d46-9222-6409e295731e)
 ge]
 
 ## Introduction
