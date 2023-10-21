@@ -1,10 +1,15 @@
 # TechEdGuard - Empowering Youths, Preventing Illicit Acts
 
-![Project Logo/Image]
+![Project Logo/Ima![IMG_20231015_182741_640](https://github.com/Sheega-ameenah/TechEdGuard/assets/147080250/91f838fd-97e4-4d46-9222-6409e295731e)
+ge]
 
 ## Introduction
 
 TechEdGuard is a project aimed at equipping young individuals with the necessary skills and knowledge to embrace technology positively and deter them from engaging in illegal activities. This repository serves as the central hub for project documentation, code, and resources.
+
+https://github.com/Sheega-ameenah/TechEdGuard/assets/147080250/b0b01d98-9e2b-4b29-9c8e-5134a15849c8
+
+
 
 ## Project Goals
 
